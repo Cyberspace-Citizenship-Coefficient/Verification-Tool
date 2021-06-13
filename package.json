@@ -1,0 +1,24 @@
+{
+  "name": "@cyber-citizenship-coefficient/validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cyberspace-Citizenship-Coefficient/Verification-Tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cyberspace-Citizenship-Coefficient/Verification-Tool/issues"
+  },
+  "homepage": "https://github.com/Cyberspace-Citizenship-Coefficient/Verification-Tool#readme",
+  "dependencies": {
+    "aws-sdk": "^2.926.0",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^10.0.0"
+  }
+}
